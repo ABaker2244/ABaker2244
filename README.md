@@ -10,7 +10,7 @@ Located in Pennsylvania, USA
 
 - 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in software development, while my role as Assistant Manager at the Adamstown Pool Snack Bar has fortified my project management prowess, equipping me with a holistic skill set poised for success in the realm of front-end development
 
-- 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association. Co-founded the first Java User Group at a U.S. university.
+- 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association. A member of the first Java User Group at a U.S. university.
 
 Excited to explore internship opportunities, I'm ready to bring my multifaceted skills to a dynamic team. Let's connect and explore possibilities together!
 
