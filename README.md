@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexis Baker!
 =====================================================================================================================================
 
-                                              Aspiring Full Stack Developer
-                                              -----------------------------
+Aspiring Full Stack Developer
+-----------------------------
+
 Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach. Proficient in Adobe Photoshop and Illustrator for innovative solutions. 
