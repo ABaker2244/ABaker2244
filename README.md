@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexis Baker!
 =====================================================================================================================================
 
-Aspiring Full Stack Developer
+Aspiring Front-End Developer
 -----------------------------
 
 Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach. Proficient in Adobe Photoshop and Illustrator for innovative solutions. 
 
-- 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in software development, while my role as Assistant Manager at the Adamstown Pool Snack Bar has fortified my project management prowess, equipping me with a holistic skill set poised for success in the realm of full stack development
+- 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in software development, while my role as Assistant Manager at the Adamstown Pool Snack Bar has fortified my project management prowess, equipping me with a holistic skill set poised for success in the realm of front-end development
 
 - 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association. Co-founded the first Java User Group at a U.S. university.
 
