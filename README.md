@@ -17,7 +17,7 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 
 
 * ✉️   Contact me at: [lexib2244@gmail.com](mailto:lexib2244@gmail.com)
-* 🧠  I am currently mastering Data Structures and Algorithms!
+* 🧠  I am currently working on mastering C++
 * 🤝  I'm open to collaborating on any and all web development projects
 * ⚡  Fun Fact: My favorite t-shirt proudly displays a Java code snippet that greets the world with a cheerful 'Hello World!' message.
 
