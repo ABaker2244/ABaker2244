@@ -52,6 +52,6 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=ambient_gradient&show_icons=true?&rank_icon=github)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABaker2244&repo=README.md)](https://github.com/Abaker2244/github-README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABaker2244&repo=ABaker2244)](https://github.com/Abaker2244/README.md)
 
 
