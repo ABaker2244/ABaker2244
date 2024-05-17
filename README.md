@@ -6,8 +6,8 @@ Aspiring Full-Stack Developer
 
 <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
-<br> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abaker2244&label=Profile%20views&color=f59dcd&style=flat" alt="abaker2244" /> </p>
 Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach.
@@ -46,12 +46,27 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ABaker2244" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alexis-baker-impact/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/ABaker2244" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-            dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"       /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/alexis-baker-impact/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-          dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-                  
+      generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+  <a href="https://www.leetcode.com/https://leetcode.com/u/alexisb22/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alexisb22/" height="30" width="40" />
+  </a>
+</p>
 
 ### Stats
 
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=ambient_gradient&show_icons=true?&rank_icon=github)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABaker2244&repo=ABaker2244)](https://github.com/Abaker2244/README.md)
-
 
