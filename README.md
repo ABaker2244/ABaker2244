@@ -61,7 +61,7 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
     </picture> 
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/alexisb22/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alexisb22/" height="30" width="40" />
+  <a href="https://leetcode.com/u/alexisb22/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alexisb22/" height="30" width="40" />
   </a>
 </p>
 
