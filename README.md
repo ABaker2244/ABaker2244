@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Developer
 -----------------------------
 
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+<br> 
+
 Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach.
