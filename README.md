@@ -30,6 +30,7 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /> 
 </br>
 
+
 <p align="center">
 <img src="https://i.ibb.co/VMTNqx6/Have-some-fun.gif" alt="Have-some-fun" border="0" height="40" width="240">
 </p>
@@ -49,6 +50,8 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 
 ### Stats
 
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=ambient_gradient&show_icons=true?)
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=ambient_gradient&show_icons=true?&rank_icon=github)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABaker2244&repo=README.md)](https://github.com/Abaker2244/github-README.md)
 
 
