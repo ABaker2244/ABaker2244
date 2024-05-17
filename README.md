@@ -51,5 +51,7 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 
 <b>My GitHub Stats</b>
 
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=jolly_icons=true)
+
 <a href="http://www.github.com/ABaker2244"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABaker2244&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
