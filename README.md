@@ -27,6 +27,9 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 * 🤝  I'm open to collaborating on any and all web development projects
 * ⚡  Fun Fact: My favorite t-shirt proudly displays a Java code snippet that greets the world with a cheerful 'Hello World!' message.
 
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /> 
+</br>
+
 ### Skills
 
 
@@ -44,3 +47,4 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ABaker2244"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABaker2244&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
