@@ -30,6 +30,11 @@ Excited to explore internship opportunities, I'm ready to bring my multifaceted 
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /> 
 </br>
 
+<p align="center">
+<img src="https://i.ibb.co/VMTNqx6/Have-some-fun.gif" alt="Have-some-fun" border="0" height="40" width="240">
+</p>
+</br>
+
 ### Skills
 
 
