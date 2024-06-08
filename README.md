@@ -12,7 +12,7 @@ Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach.
 
-- 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in software development.
+- 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in networking.
 
 - 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association. A member of the first Java User Group at a U.S. university.
 
