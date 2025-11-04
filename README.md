@@ -12,18 +12,15 @@ Located in Pennsylvania, USA
 
 - 💻 Mastering both client-side and server-side web development with a steadfast ethical approach.
 
-- 🛠️ Currently interning at Air Products, collaborating with their esteemed plant computing team to gain hands-on experience in networking.
-
-- 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association. A member of the first Java User Group at a U.S. university.
+- 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association.
 
   
 
-Excited to explore internship opportunities, I'm ready to bring my multifaceted skills to a dynamic team. Let's connect and explore possibilities together!
+Excited to explore full-time opportunities, I'm ready to bring my multifaceted skills to a dynamic team. Let's connect and explore possibilities together!
 
 
 
 * ✉️   Contact me at: [lexib2244@gmail.com](mailto:lexib2244@gmail.com)
-* 🧠  I am currently working on mastering C++
 * 🤝  I'm open to collaborating on any and all web development projects
 * ⚡  Fun Fact: My favorite t-shirt proudly displays a Java code snippet that greets the world with a cheerful 'Hello World!' message.
 
