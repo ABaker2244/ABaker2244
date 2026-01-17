@@ -1,4 +1,4 @@
-# Hey, I’m Alexis Baker 👋
+# Hi, I’m Alexis Baker! 👋
 
 <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
