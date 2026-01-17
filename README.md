@@ -1,6 +1,7 @@
 # Hey, I’m Alexis Baker 👋
 
-<img align="center" width="320" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
 
 **Future Full-Stack Engineer | Builder | Curious by Default | Slightly Obsessed with Learning**
 
