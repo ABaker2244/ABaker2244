@@ -1,8 +1,9 @@
 # Hey, I’m Alexis Baker 👋
 
+<img align="center" width="320" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+
 **Future Full-Stack Engineer | Builder | Curious by Default | Slightly Obsessed with Learning**
 
-<img align="right" width="320" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
 I’m a developer who genuinely loves building things—then breaking them, fixing them, and figuring out how to make them better.
 
