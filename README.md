@@ -1,65 +1,133 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexis Baker!
-=====================================================================================================================================
+# Hey, I’m Alexis Baker 👋
 
-Aspiring Full-Stack Developer
------------------------------
+**Future Full-Stack Engineer | Builder | Curious by Default | Slightly Obsessed with Learning**
 
-<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
-<br>
+<img align="right" width="320" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abaker2244&label=Profile%20views&color=f59dcd&style=flat" alt="abaker2244" /> </p>
-Located in Pennsylvania, USA
+I’m a developer who genuinely loves building things—then breaking them, fixing them, and figuring out how to make them better.
 
-- 💻 Mastering both client-side and server-side web development with a steadfast ethical approach.
+I’m graduating **May 2026** with a background in **Computer & Information Technology**, and I’ve already spent a lot of time doing what I enjoy most: designing systems, writing code, deploying infrastructure, and collaborating with people who care about what they’re building.
 
-- 🤝 Actively shaping campus tech culture as the President of Kutztown Technology Association.
+I don’t just want a job where I write code—I want to **grow into an engineer teams trust**, someone who can learn fast, adapt, and take ownership when things get hard (because they always do).
 
-  
+📍 Pennsylvania, USA
+🎓 Kutztown University of Pennsylvania
+👩‍💻 President, Kutztown Technology Association (KTech)
 
-Excited to explore full-time opportunities, I'm ready to bring my multifaceted skills to a dynamic team. Let's connect and explore possibilities together!
+---
 
+## ✨ What Drives Me
 
+* Turning messy ideas into clean, working systems
+* Learning technologies deeply instead of memorizing surface-level answers
+* Building software that is ethical, scalable, and actually useful
+* Working with people who challenge me to think bigger
 
-* ✉️   Contact me at: [lexib2244@gmail.com](mailto:lexib2244@gmail.com)
-* 🤝  I'm open to collaborating on any and all web development projects
-* ⚡  Fun Fact: My favorite t-shirt proudly displays a Java code snippet that greets the world with a cheerful 'Hello World!' message.
+I’m actively exploring **full-time software engineering roles** where curiosity, mentorship, and ownership matter.
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /> 
-</br>
+---
 
+## 🧠 How I Build
 
+### Languages & Frameworks
 
+* JavaScript / TypeScript (React, React Native)
+* Python (FastAPI, automation, APIs)
+* C++, Java, PHP, Perl (academic + applied)
+* HTML5 & CSS3 (responsive, accessible UI)
 
-### Skills
+### Backend, Data & APIs
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" width="36" height="36" alt="Squarespace" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+* RESTful API design
+* PostgreSQL, MySQL, Oracle, DynamoDB
+* Authentication & authorization flows
+* Thoughtful data modeling
 
+### Cloud, DevOps & Infrastructure
 
-### Socials
+* AWS (Lambda, API Gateway, S3, DynamoDB, CloudFront, IAM, WAF)
+* Terraform (modular IaC, multi-environment setups)
+* Docker & Docker Compose
+* CI/CD pipelines and automation
+* DigitalOcean & Linux server management
 
-<p align="left"> 
-  <a href="https://www.github.com/ABaker2244" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-            dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"       /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/alexis-baker-impact/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-          dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-                  
-      generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-  <a href="https://leetcode.com/u/alexisb22/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alexisb22/" height="30" width="40" />
-  </a>
-</p>
+### Tooling & Design
 
-### Stats
+* Git & GitHub (PRs, reviews, collaboration)
+* VS Code, Vim
+* Figma, Illustrator, Photoshop
+* Writing documentation people actually want to read
 
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244&theme=ambient_gradient&show_icons=true?&rank_icon=github)
+---
+
+## 🚀 Things I’m Proud Of
+
+### 🏗️ Tactical App Store (Enterprise-Style Cloud Platform)
+
+**Full-Stack / Cloud Engineer**
+
+* Designed a secure internal application marketplace with enterprise-scale thinking
+* Built AWS infrastructure using Terraform with VPC endpoints, IAM least privilege, and logging
+* Developed Lambda APIs and DynamoDB tables for application metadata and access control
+* Implemented CloudFront-secured downloads instead of basic S3 links
+* Created formal Target State Architecture documentation (yes, the real kind)
+
+This project taught me how **real systems are designed**, not just coded.
+
+---
+
+### 🌱 Buddi — AI-Powered Habit Tracking App (Capstone)
+
+**Full-Stack Developer**
+
+* Built a React + FastAPI + PostgreSQL application from the ground up
+* Dockerized dev and prod environments for consistent deployments
+* Implemented authentication, habit analytics, and AI-powered assistance
+* Deployed with CI/CD, Nginx, and SSL on a Linux server
+* Worked in an Agile team across multiple sprints
+
+Buddi pushed me to think beyond “does it work?” and toward “would someone actually use this?”
+
+---
+
+### 💡 App Localization Manager (Hack Day Concept)
+
+**Product-Minded Engineer**
+
+* Designed a modern localization management platform
+* Balanced technical architecture with usability and scale
+* Focused on developer experience and long-term maintainability
+
+---
+
+## 🤝 Leadership & Community
+
+### President — Kutztown Technology Association (KTech)
+
+* Lead campus tech initiatives, speaker events, and career workshops
+* Collaborate with students, faculty, and industry professionals
+* Mentor peers navigating internships, interviews, and technical growth
+
+This role taught me that **great engineers don’t work in isolation**.
+
+---
+
+## 📊 GitHub at a Glance
+
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABaker2244\&theme=ambient_gradient\&show_icons=true)
+
+---
+
+## 🌐 Let’s Connect
+
+GitHub • LinkedIn • LeetCode
+📧 **Email:** [lexib2244@gmail.com](mailto:lexib2244@gmail.com)
+
+---
+
+## ⚡ Fun, But Very Real
+
+My favorite t-shirt has a Java `HelloWorld` program on it. It reminds me that even the smallest programs can be the start of something big.
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
 
